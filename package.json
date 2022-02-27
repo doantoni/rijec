@@ -1,0 +1,24 @@
+{
+  "name": "rijec",
+  "version": "1.0.0",
+  "description": "Word Guessing Game",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doantoni/rijec.git"
+  },
+  "author": "Dorian Antoniazzo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/doantoni/rijec/issues"
+  },
+  "homepage": "https://github.com/doantoni/rijec#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
